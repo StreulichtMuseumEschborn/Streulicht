@@ -163,6 +163,19 @@ body {
   box-shadow: 0 9px #999;
 }
 
+#quellen2 {
+  border-radius: 10%;
+  height: 15vw;
+  width: 20vw;
+  font-family: Quicksand;
+  background-color: #4c8ac7;
+  font-size: 5vw;
+  color: white;
+  margin: 15px;
+  border: none;
+  box-shadow: 0 9px #999;
+}
+
 #quellen:hover {background-color: #4f81b4}
 
 #quellen:active {
